@@ -1,0 +1,17 @@
+{
+  "name": "pressure",
+  "version": "0.0.1",
+  "authors": [
+    "Timo Würsch <twuersch@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "metrics-graphics": "2.5"
+  }
+}
